@@ -10,7 +10,7 @@ function createBot() {
     host: 'Kingdom2.aternos.me',
     port: 45630,
     username: 'KeepAliveBot',
-    version: '1.21.6',
+    version: '1.20.1',
     auth: 'offline'
   })
 
